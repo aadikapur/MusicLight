@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicLight</string>
+    <string name="title_activity_upload_music">UploadMusic</string>
+    <string name="title_activity_join_session">JoinSession</string>
+</resources>
